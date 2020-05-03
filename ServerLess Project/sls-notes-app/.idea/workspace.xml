@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05d04750-8724-4924-8b7b-73dd41f98a36" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1a1HBEQSvxbRapSTXOtzGBNfGHO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\WORK\STUDY\ServerLess Project\sls-notes-app\node_modules\typescript\lib" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05d04750-8724-4924-8b7b-73dd41f98a36" name="Default Changelist" comment="" />
+      <created>1585896041747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585896041747</updated>
+      <workItem from="1585896043372" duration="1608000" />
+      <workItem from="1586048961768" duration="602000" />
+      <workItem from="1586049804243" duration="37000" />
+      <workItem from="1586193133672" duration="3808000" />
+      <workItem from="1586210855206" duration="16000" />
+      <workItem from="1586290688367" duration="8317000" />
+      <workItem from="1586305056072" duration="48000" />
+      <workItem from="1586458130951" duration="620000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/app/components/login/login.component.js" />
+        <option value="$PROJECT_DIR$/src/app/services/auth-guard/auth-guard.service.js" />
+        <option value="$PROJECT_DIR$/src/app/services/auth/auth.service.js" />
+        <option value="$PROJECT_DIR$/src/app/main.aot.js" />
+        <option value="$PROJECT_DIR$/src/app/main.js" />
+        <option value="$PROJECT_DIR$/src/app/polyfills.js" />
+        <option value="$PROJECT_DIR$/src/app/app-routing.module.js" />
+        <option value="$PROJECT_DIR$/src/app/app.component.js" />
+        <option value="$PROJECT_DIR$/src/app/app.module.js" />
+        <option value="$PROJECT_DIR$/src/app/pipes/extract-title.pipe.js" />
+        <option value="$PROJECT_DIR$/src/app/services/notes-api/notes-api.service.js" />
+        <option value="$PROJECT_DIR$/src/app/services/notes-data/notes-data.service.js" />
+        <option value="$PROJECT_DIR$/src/app/components/notes/note.component.js" />
+        <option value="$PROJECT_DIR$/src/app/components/notes/note-snapshot.component.js" />
+        <option value="$PROJECT_DIR$/src/app/components/notes/notes.component.js" />
+        <option value="$PROJECT_DIR$/src/app/components/navbar/navbar.component.js" />
+        <option value="$PROJECT_DIR$/src/app/components/spinner/spinner-component.js" />
+        <option value="$PROJECT_DIR$/src/app/components/home/home.component.js" />
+        <option value="$PROJECT_DIR$/src/app/components/login/login.component.js" />
+        <option value="$PROJECT_DIR$/src/app/services/auth-guard/auth-guard.service.js" />
+        <option value="$PROJECT_DIR$/src/app/services/auth/auth.service.js" />
+        <option value="$PROJECT_DIR$/src/app/main.aot.js" />
+        <option value="$PROJECT_DIR$/src/app/main.js" />
+        <option value="$PROJECT_DIR$/src/app/polyfills.js" />
+        <option value="$PROJECT_DIR$/src/app/app-routing.module.js" />
+        <option value="$PROJECT_DIR$/src/app/app.component.js" />
+        <option value="$PROJECT_DIR$/src/app/app.module.js" />
+        <option value="$PROJECT_DIR$/src/app/pipes/extract-title.pipe.js" />
+        <option value="$PROJECT_DIR$/src/app/services/notes-api/notes-api.service.js" />
+        <option value="$PROJECT_DIR$/src/app/services/notes-data/notes-data.service.js" />
+        <option value="$PROJECT_DIR$/src/app/components/notes/note.component.js" />
+        <option value="$PROJECT_DIR$/src/app/components/notes/note-snapshot.component.js" />
+        <option value="$PROJECT_DIR$/src/app/components/notes/notes.component.js" />
+        <option value="$PROJECT_DIR$/src/app/components/navbar/navbar.component.js" />
+        <option value="$PROJECT_DIR$/src/app/components/spinner/spinner-component.js" />
+        <option value="$PROJECT_DIR$/src/app/components/home/home.component.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
